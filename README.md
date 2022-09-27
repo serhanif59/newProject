@@ -1,2 +1,3 @@
+REMOTE
 # newProject
 new project
